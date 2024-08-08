@@ -120,6 +120,11 @@
 				<Title>punto</Title>
 				<Operation type="csv">1</Operation>
 			</CustomLayer>
+			<CustomLayer>
+				<Name>GH:centros_de_salud_2020</Name>
+				<Title>centros_de_salud_2020</Title>
+				<Operation type="csv">1</Operation>
+			</CustomLayer>
 		</VendorSpecificCapabilities>
 		<UserDefinedSymbolization SupportSLD="1" UserLayer="1" UserStyle="1" RemoteWFS="1"></UserDefinedSymbolization>
 		<Layer queryable="0" opaque="0" noSubsets="0">
